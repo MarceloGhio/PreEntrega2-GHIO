@@ -1,0 +1,16 @@
+@import "./parciales/header";
+@import "./parciales/banner";
+@import "./parciales/inicia";
+@import "./parciales/the_witcher";
+@import "./parciales/geralt__home";
+@import "./parciales/footer";
+@import "./parciales/historia";
+@import "./parciales/tienda";
+@import "./parciales/galeria";
+@import "./parciales/noticias";
+
+$texto: #FFFFFF;
+
+#historia{
+    color: $texto;
+}

@@ -1,0 +1,57 @@
+header{
+    background-color: #121213;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#banner{
+    background-color: #121213;
+}
+
+#historia{
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
+}
+
+#tienda{
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
+}
+
+#geralt_img{
+    background-image: url(../img/background__historia.jpg);
+}
+
+.footer{
+    background-color: #0f0f16;
+    padding-left: 3rem;
+}
+
+#inicia{
+    background-color: #27242b;
+    color: #FFFFFF;
+    margin: 0px;
+
+}
+
+.the_witcher{
+    background-color: #414142ec;
+    color: #FFFFFF;
+}
+
+#gal{
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
+}
+
+#noticias{
+    background-image: url(../img/background__historia.jpg);
+    color: #FFFFFF;
+}
